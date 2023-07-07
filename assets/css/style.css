@@ -335,6 +335,10 @@ footer {
         width: 100%;
         text-align: center;
     }
-    
-    .left-about-heading
+
+    .left-about-heading p,
+    .right-about-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
 }
